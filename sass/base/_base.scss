@@ -1,0 +1,20 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 10px;
+  
+  @media (max-width: 600px){
+    font-size: 50px;
+  }
+
+}
+
+body {
+  box-sizing: border-box;
+}

@@ -1,0 +1,26 @@
+@mixin clearfix {
+  &::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+@mixin absCenter {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+//MEDIA QUERY MANAGER
+
+@mixin respond-phone {
+  @media (max-width:600px) { @content };
+}
+
+@mixin respond($breakpoint) {
+  @if $breakpoint == phone {
+
+  }
+}
