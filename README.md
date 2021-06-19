@@ -9,6 +9,7 @@ Additional description about the project and its features.
 ## Built With
 
 - HTML5
+- CSS3
 - Sass
 
 ## Live Demo
@@ -17,4 +18,4 @@ Additional description about the project and its features.
 
 ## Acknowledgments
 
-Builded my copy for this online course: ADVANCED CSS AND SASS. Copyright © by Jonas Schmedtmann. You are 100% allowed to use this website for both personal and commercial use, but NOT to claim it as your own design. A credit to the original author, Jonas Schmedtmann!
+Builded my copy for this online course: ADVANCED CSS AND SASS. Copyright © by Jonas Schmedtmann. You are 100% allowed to use this website for both personal and commercial use, but NOT to claim it as your own design. A credit to the original author, Jonas Schmedtmann, is of course highly appreciated!
