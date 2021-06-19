@@ -1,4 +1,4 @@
-# Project Name
+# Natours
 
 > A website for a fictional company that offers tours in nature
 
